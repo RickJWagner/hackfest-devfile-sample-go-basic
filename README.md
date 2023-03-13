@@ -1,2 +1,2 @@
 # devfile-sample-go-basic
-bump
+bump2
